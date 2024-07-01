@@ -47,7 +47,7 @@ WIDTH, HEIGHT = 1400, 1000  # Increased window size
 MEMORY_SIZE = 64
 BLOCK_SIZE = 10
 PADDING = 150
-NUM_TEAMS = 1
+NUM_TEAMS = 4
 
 MODE = 1
 

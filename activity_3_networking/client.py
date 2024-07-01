@@ -57,7 +57,7 @@ def request_file(filename):
     return content, duration
 
 # Example usage
-if __name__ == "__main__":
+def runTest():
     test_files = ["cardiff.png", "comet.png", "mutiny.png", "macmillian.png"]
     
     # Create a list of 50 file requests with repetitions
